@@ -2,3 +2,5 @@ ilk github metin dosyam
 
 
 bu benim github üsütnden saklaığım ilk metindir
+
+Bu satıda yaptığım ilk değişikliktir
